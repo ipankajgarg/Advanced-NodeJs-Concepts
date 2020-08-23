@@ -54,4 +54,4 @@ module.exports = {
     client.del(JSON.stringify(hashKey));
   }
 };
-client.fl;
+
